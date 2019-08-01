@@ -1,0 +1,18 @@
+### CREAR REPOSITORIO GIT ###
+
+git init
+
+### DARLE EL COMMIT INICIAL ###
+
+git commit -m "Commit inicial"
+
+### AGREGAR LA CARPETA AL REPO ORIGEN ###
+
+git remote add origin https://github.com/HHernandezR/microservicios.git
+
+### CON TORTOISE GIT SE DIO COMMIT Y PUSH ###
+
+o puede usarse
+
+git add . (. Es todo lo que contenga la carpeta)
+git commit -m "Comentarios"
